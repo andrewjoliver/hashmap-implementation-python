@@ -37,7 +37,7 @@ FURTHER DEVELOPMENT:
 AUTHORS
 	Andrew Oliver - (Initial Build) - andrewjoliver
 
-LICENSe
+LICENSE
 	This project is licensed under the MIT License - see the LICENSE file for details.
 
 ACKNOWLEDGEMENTS
